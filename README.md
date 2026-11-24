@@ -2,7 +2,7 @@
 
 A lightweight Minecraft plugin for **1.21+** that registers the custom **Combo Momentum** enchantment (`comboweapon:combo_momentum`) for melee weapons, rewarding consecutive hits on the same target with scaling bonus damage.
 
-[![Modrinth](https://img.shields.io/badge/Modrinth-Download-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/plugin/chatblock-why_luca/)
+[![Modrinth](https://img.shields.io/badge/Modrinth-Profile-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/Why_Luca)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/D8DtJF2Jye)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/why_luca)
 
